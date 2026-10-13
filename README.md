@@ -1,5 +1,5 @@
 # Eyedentify by Mizano Games
 
-Playable preview: https://denzelmuhumuza-stack.github.io/eyedentify/
+The game now lives at https://eyedentify.mizanogames.com/
 
-Three modes: Classic Solo, Classic 2 Player and 3×3 Solo. Works on phones, tablets and computers.
+This page only forwards old links to the new address.
